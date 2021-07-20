@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @adwardwolf
-- 🌱 I’m currently learning android with kotlin.
 - 📫 You can contact me via Instagram on my profile link. Have a good day guys...
 
 <!---
