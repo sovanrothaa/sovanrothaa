@@ -5,8 +5,8 @@
 I'm 18 years old. I've been programming for 9 months.
 </h4>
 
-<p align="center">
-<href="https://www.instagram.com/adwardwo1f/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+<p align="center" href="https://www.instagram.com/adwardwo1f/">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
 </p> 
 <h3 align="center">
 Serious Project
