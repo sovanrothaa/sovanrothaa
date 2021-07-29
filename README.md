@@ -32,9 +32,6 @@ Serious Project
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwardwolf&theme=maroongold&layout=compact"/>
   </a>
 </p>
-
-<p align="center">  
-<img src= "https://estruyf-github.azurewebsites.net/api/VisitorHit?user=adwardwol1f&repo=adwardwolf&countColorcountColor&countColor=%"/>
 <!---
 adwardwolf/adwardwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
