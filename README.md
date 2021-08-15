@@ -12,7 +12,7 @@ I'm 18 | I've been programming for 9 months.
 <h2 align="center">
 </h2>
 <h3 align="center">
-Serious Project
+Main Project
 </h3>
 <p align="center">
   <a href ="https://github.com/adwardwolf/the-earth">
