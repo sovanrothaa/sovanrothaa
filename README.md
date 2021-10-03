@@ -2,7 +2,7 @@
 👋 Hi, I'm @adwardwo1f
 </h2>
 <h4 align="center">
-I'm 18 | I've been programming for 9 months.
+I'm 18 | I've been programming for 10 months.
 </h4>
 <p align="center">
   <a href ="https://www.instagram.com/adwardwo1f/">
