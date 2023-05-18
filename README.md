@@ -1,9 +1,3 @@
-<h2 align="center">
-👋 Hi, I'm @adwardwo1f
-</h2>
-<h4 align="center">
-I'm 19 | I've been programming since November 2020.
-</h4>
 <p align="center">
   <a href ="https://www.instagram.com/adwardwo1f/">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
