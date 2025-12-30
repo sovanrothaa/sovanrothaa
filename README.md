@@ -1,6 +1,6 @@
 <h1>So Sovanrotha</h1>
 <p>
-  Software Engineer | Content Creator | Entrepreneur
+  Software Engineer
 </p>
 
 <div>
