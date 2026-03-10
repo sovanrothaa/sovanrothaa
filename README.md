@@ -1,43 +1,34 @@
 <h1>So Sovanrotha</h1>
-<p>
-  Software Engineer
-</p>
+<p>Software Engineer · Phnom Penh, Cambodia</p>
 
 <div>
-  
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=sovanrothaa&color=blueviolet&style=flat-square)
 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sovanrothaa&layout=compact)
 </div>
 
 ### 🚀 About Me
-I’m a software engineer based in Phnom Penh, Cambodia, who loves building practical, scalable solutions.  
+I'm a software engineer based in Phnom Penh, Cambodia who loves building clean,
+scalable systems — from Android apps to distributed backends.
 
 ### 📚 What I'm Working On
-- Building clean, production-ready project structures  
-- Documenting everything I learn in a personal knowledge base  
-- Practicing communication, networking, and confidence  
-- Preparing for long-term business plans in tech & media  
-
-### 🧠 My Engineering Notes
-I maintain a structured knowledge base with:
-- Commands & shortcuts  
-- Debugging notes  
-- Architecture research  
-- Solutions to real-world problems I’ve solved  
-- Tools, configs, workflows  
-
-> It’s my engineering “second brain.” Check it out in the pinned repositories.
-
-### ⚡ Fun
-I’m constantly trying to push myself beyond comfort —  
-whether it’s improving my social skills, creating content, or leveling up in engineering.
+- Shipping production-ready projects with clean architecture and good documentation
+- Maintaining a structured engineering knowledge base (commands, debugging notes, architecture research)
+- Improving communication, writing, and long-term technical thinking
+- Exploring distributed systems, cloud infrastructure, and auth patterns
 
 ### 🏗 Projects
-Here are a few things I’ve built or am experimenting with:
 
-[JGroups Testing](https://github.com/sovanrothaa/jgroups-testing)
+**[Quatist](https://github.com/sovanrothaa/quatist)**  
+A fully-featured Android social media app built with 100% Jetpack Compose and multi-module
+Clean Architecture. Covers auth (email + Google Sign-In), paginated feeds, threaded comments,
+reactions, push notifications via OneSignal, AdMob ads, and Firebase Storage — backed by a
+Ktor + MongoDB API deployed on Google Cloud Run.
 
-A Spring Boot application for testing distributed push notifications with cross-site replication using JGroups RELAY2.
+**[JGroups Testing](https://github.com/sovanrothaa/jgroups-testing)**  
+A Spring Boot app for testing distributed push notifications with cross-site replication
+using JGroups RELAY2.
 
 ### 🧰 Tech Stack
 
